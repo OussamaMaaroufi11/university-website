@@ -16,15 +16,18 @@ Originally created in **2023** as one of my first front-end web development proj
 
 ### Home Page
 
-> *(Add a screenshot here later)*
+> <img width="1896" height="910" alt="couverture" src="https://github.com/user-attachments/assets/14a6b671-3db8-450b-9ac6-2762844e73f1" />
+
 
 ### Courses Page
 
-> *(Add a screenshot here later)*
+> <img width="1897" height="907" alt="course" src="https://github.com/user-attachments/assets/e8d1fc7e-5ac8-4346-a027-018d47ad2db4" />
+
 
 ### Contact Page
 
-> *(Add a screenshot here later)*
+> <img width="1247" height="837" alt="remplir" src="https://github.com/user-attachments/assets/d022d62e-fd66-49db-94cf-9f4ca63e9ce7" />
+
 
 ---
 
