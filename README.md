@@ -1,66 +1,139 @@
 # 🎓 University Website
 
-A modern, responsive university website built with HTML, CSS and JavaScript.
+A modern, responsive university website developed with **HTML5**, **CSS3**, and **JavaScript**.
 
-This project was originally developed in **2023** as one of my first web development projects.
-
-In **2026**, I revisited the project to modernize both the design and the codebase using current front-end development practices.
+Originally created in **2023** as one of my first front-end web development projects, this website was revisited and significantly improved in **2026** by applying modern web development practices, cleaner code organization, and a better user experience.
 
 ---
 
-## Features
+## 🌐 Live Demo
 
-- Responsive Design
-- Semantic HTML5
-- Modern CSS
-- Mobile Navigation
-- Contact Form
-- Google Maps Integration
-- Font Awesome Icons
-- Modern UI
-- Cross-browser Compatibility
+🔗 https://oussamamaaroufi11.github.io/university-website/
 
 ---
 
-## Technologies
+## 📸 Screenshots
+
+### Home Page
+
+> *(Add a screenshot here later)*
+
+### Courses Page
+
+> *(Add a screenshot here later)*
+
+### Contact Page
+
+> *(Add a screenshot here later)*
+
+---
+
+## ✨ Features
+
+- Responsive design for desktop, tablet and mobile devices
+- Semantic HTML5 structure
+- Modern and clean user interface
+- Responsive navigation menu
+- Contact form
+- Google Maps integration
+- Font Awesome icons
+- Google Fonts
+- Cross-browser compatibility
+- GitHub Pages deployment
+
+---
+
+## 🚀 2026 Improvements
+
+This project was originally developed in **2023**.
+
+In **2026**, I decided to revisit it and modernize it by implementing several improvements:
+
+- Refactored the HTML using semantic HTML5 elements
+- Improved accessibility
+- Improved SEO metadata
+- Reorganized the CSS
+- Moved JavaScript into a dedicated `script.js` file
+- Updated the navigation structure
+- Improved responsive layout
+- Modernized the contact page
+- Replaced the old PHP mail handler with **FormSubmit**, making the website easier to deploy on static hosting platforms such as GitHub Pages
+- Improved code readability and maintainability
+
+---
+
+## 🛠 Technologies
 
 - HTML5
 - CSS3
 - JavaScript
-- FormSubmit (Contact Form)
+- FormSubmit
+- Google Fonts
+- Font Awesome
+- GitHub Pages
 
 ---
 
-## Improvements (2026)
+## 📁 Project Structure
 
-- Refactored HTML structure
-- Improved accessibility
-- Improved SEO
-- Created a dedicated script.js
-- Reorganized CSS
-- Better responsive design
-- Replaced the old PHP contact form with FormSubmit
-- Improved overall code readability
-
----
-
-## Project Structure
-
-```
-University-Website/
+```text
+University Website/
 │
 ├── index.html
 ├── about.html
 ├── course.html
 ├── blogs.html
 ├── contact.html
+│
 ├── style.css
 ├── script.js
-└── images/
+│
+├── images/
+│
+└── README.md
 ```
 
 ---
 
-## Author
+## 📬 Contact Form
+
+The website includes a fully functional contact form powered by **FormSubmit**, allowing visitors to send messages without requiring a backend server.
+
+---
+
+## 🎯 Purpose
+
+This project was developed to practice and improve:
+
+- Responsive Web Design
+- HTML5
+- CSS3
+- JavaScript
+- Website structure
+- UI Design
+- Front-end development
+- Version control using Git & GitHub
+
+---
+
+## 👨‍💻 Author
 
 **Oussama Maaroufi**
+
+Computer Science Student — Université du Québec à Chicoutimi (UQAC)
+
+GitHub:
+https://github.com/OussamaMaaroufi11
+
+LinkedIn:
+*(Add your LinkedIn profile URL here)*
+
+---
+
+## ⭐ Project Evolution
+
+One of the most rewarding parts of software development is revisiting older projects.
+
+This website reflects my progress as a developer by comparing my first implementation in **2023** with a cleaner, more modern version completed in **2026**.
+
+Continuous improvement is an essential part of learning software engineering.
